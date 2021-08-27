@@ -11,4 +11,4 @@ Change directory: \
 Generate password: \
 `python3 s-pass.py` \
 Decrypt password: \
-`python3 decrypt.py` \
+`python3 decrypt.py`
