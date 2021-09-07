@@ -17,4 +17,4 @@ message = message_bytes.decode('ascii')
 
 time.sleep(1)
 
-print(f"\n\n{message}\n \n")
+print(f"\n\n{message}\n\n")
