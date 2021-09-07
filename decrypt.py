@@ -3,6 +3,7 @@ import time
 
 crypted_message = input("\n\nEnter crypted message: ")
 
+
 crypted_message = crypted_message[9:-13]
 
 crypted_message = crypted_message[3] + crypted_message[1:3] + crypted_message[0] + crypted_message[4:]
