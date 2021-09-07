@@ -17,7 +17,7 @@ time.sleep(1)
 
 print(f"\n{for_what} password is {password}")
 
-file_message = f"{for_what} password is {password}"
+file_message = f"{for_what} password is {password}\n"
 
 message = file_message
 message_bytes = message.encode('ascii')
