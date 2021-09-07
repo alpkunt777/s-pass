@@ -1,7 +1,7 @@
 import base64
 import time
 
-crypted_message = input("\n\nEnter crypted  message: ")
+crypted_message = input("\n\nEnter crypted message: ")
 
 crypted_message = crypted_message[9:-13]
 
