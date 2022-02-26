@@ -31,7 +31,7 @@ encoded_message = encoded_message[3] + encoded_message[1:3] + encoded_message[0]
 
 encoded_message = "D1?.F<&a3" + encoded_message + ".5F+t_/e^" + str(randint(13,17)) + str(randint(21,37))
 
-file = open(f"{for_what}-password.txt", "w")
+file = open(f"{for_what}-password.txt", 'w')
 
 file.write(encoded_message)
 
