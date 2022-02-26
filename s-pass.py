@@ -40,3 +40,6 @@ file.close()
 time.sleep(1)
 
 print(f"\n\nEncrypted password saved {for_what}-password.txt successfully!")
+
+#Copyright© 2022 s-pass
+#All rights of this software are protected by the GPL License.
